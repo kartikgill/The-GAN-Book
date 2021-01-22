@@ -1,6 +1,8 @@
 # The GAN BOOK
 
-## INDEX
+## Coming Soon ...
+
+## Rough Topics
 
 ### Skill 1: Generative Models: Introduction 
 
