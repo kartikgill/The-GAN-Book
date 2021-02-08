@@ -1,8 +1,8 @@
 # The GAN BOOK
 
-## Coming Soon ...
+## Coming Soon ... Work In Progress
 
-## Rough Topics
+## Possible Topics
 
 ### Skill 1: Generative Models: Introduction 
 
