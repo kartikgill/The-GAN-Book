@@ -41,3 +41,11 @@ If you are a ML practitioner who wants to learn about generative learning approa
 - Skill 12: Impressive Applications of GANs
 - Skill 13: Top Research Papers
 
+## Cover Page
+
+<p align="center">
+    <img src="Assets/The GAN Book.jpg" width="500"\>
+</p>
+
+
+
