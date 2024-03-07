@@ -2,7 +2,7 @@
 ## Train stable Generative Adversarial Networks using TensorFlow2, Keras and Python
 
 
-### Get your copy
+## Get your copy today!
  - [Amazon Kindle (eBook)](https://www.amazon.com/GAN-Book-Generative-Adversarial-TensorFlow2-ebook/dp/B0CR8C725C)
  - [Google Books (PDF eBOOK)](https://books.google.co.in/books?id=87X3EAAAQBAJ&newbks=0&printsec=frontcover&pg=PA73&dq=Train+stable+Generative+Adversarial+Networks+using+TensorFlow2,+Keras+and+Python&hl=en&source=newbks_fb&redir_esc=y#v=onepage&q=Train%20stable%20Generative%20Adversarial%20Networks%20using%20TensorFlow2%2C%20Keras%20and%20Python&f=false)
 
