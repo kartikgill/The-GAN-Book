@@ -2,7 +2,9 @@
 ## Train stable Generative Adversarial Networks using TensorFlow2, Keras and Python
 
 
-### << Coming Soon >> 
+### Get your copy
+ - [Amazon Kindle (eBook)](https://www.amazon.com/GAN-Book-Generative-Adversarial-TensorFlow2-ebook/dp/B0CR8C725C)
+ - [Google Books (PDF eBOOK)](https://books.google.co.in/books?id=87X3EAAAQBAJ&newbks=0&printsec=frontcover&pg=PA73&dq=Train+stable+Generative+Adversarial+Networks+using+TensorFlow2,+Keras+and+Python&hl=en&source=newbks_fb&redir_esc=y#v=onepage&q=Train%20stable%20Generative%20Adversarial%20Networks%20using%20TensorFlow2%2C%20Keras%20and%20Python&f=false)
 
 ## Book Description
 of applications in the fields of Computer Vision, Digital Marketing, Creative artwork and so on. One key challenge with GANs is that they are very difficult to train. This book is a comprehensive guide that highlights the common challenges of training GANs and also provides guidelines for developing GANs in such a way that they result in stable training and high-quality results. This book also explains the generative learning approach of training ML models and its key differences from the discriminative learning approach. After covering the different generative learning approaches, this book deeps dive more into the Generative Adversarial Network and their key variants.
